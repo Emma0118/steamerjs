@@ -12,7 +12,7 @@ npm i -g steamerjs steamer-plugin-kit
 ## 安装你喜欢的脚手架
 
 ```javascript
-npm i -g steamer-simple steamer-react steamer-vue
+npm i -g steamer-simple steamer-react steamer-vue steamer-react-component
 ```
 
 ## 本地部署脚手架
