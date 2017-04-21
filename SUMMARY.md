@@ -35,6 +35,9 @@
 * [JB 捷豹配置插件](./docs/Steamer-Plugin-JB.md)
 
 
+* [AlloyStore 组件平台插件](./docs/Steamer-Plugin-Alloystore.md)
+
+
 * [内置插件](./docs/Steamer-Plugins.md)
 	- [doctor 系统诊断插件](./docs/Steamer-Plugin-Doctor.md)
 	- [config 命令配置插件](./docs/Steamer-Plugin-Config.md)
