@@ -22,13 +22,14 @@ steamer kit
 // 然后选择你喜欢的脚手架
 ? which starterkit do you like:  (Use arrow keys)
 ❯ react
+  react-component
   simple
   vue
 ```
 
 ## 更新脚手架
 ```javascript
-npm update -g steamer-simple steamer-react steamer-vue
+npm update -g steamer-simple steamer-react steamer-vue steamer-react-component
 
 // 进入你的项目目录
 cd project

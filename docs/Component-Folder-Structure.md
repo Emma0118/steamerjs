@@ -17,9 +17,8 @@ config -- 项目配置
 |------steamer.config.js -- 可由steamer生成，包括webserver, cdn, port, route等
 |
 test   -- 测试相关
-|------jest jest 测试用例
-|------karma karma 测试用例
-|------mock 测试用例模拟的数据
+|------unit jest 和 karma 单元测试用例
+|------mocks 测试用例模拟的数据
 |      
 |      
 tools  -- 构建工具
