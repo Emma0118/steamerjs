@@ -27,3 +27,16 @@ steamer xxx
 // alias command
 str xxx
 ```
+
+
+## 更新
+```javascript
+// 更新本身
+npm update -g steamerjs
+
+// 更新插件
+npm update -g steamer-plugin-xxx
+
+// 更新脚手架
+npm update -g steamer-xxx
+```
